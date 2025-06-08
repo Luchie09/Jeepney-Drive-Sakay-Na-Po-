@@ -1,0 +1,22 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1749309725
+character.gd::GDScript::7625041487688072962::1749309416::0::1::::<>Area2D<><>0<>0<><>::
+icon.svg::CompressedTexture2D/CompressedTexture2D::822355769553640367::1749282140::1749282146::1::::<><><>0<>0<>71d6ca53c71925b65dd612250ca6e0ff<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1749308873
+back.png::CompressedTexture2D/CompressedTexture2D::2606160484745571159::1749295138::1749295138::1::::<><><>0<>0<>af830a349e5edc41ff4a97815025f3b5<>res://.godot/imported/back.png-515119acda62477b1fef7f62900af1e0.ctex::
+Buildings.png::CompressedTexture2D/CompressedTexture2D::2107056422804444845::1749296446::1749296446::1::::<><><>0<>0<>861c50dfbdecf84d2c1fee3cefb9683a<>res://.godot/imported/Buildings.png-e1587171b0d0f4cbfb6e1ea4aec8eb13.ctex::
+Bystander.png::CompressedTexture2D/CompressedTexture2D::7217459794945469271::1749308872::1749308873::1::::<><><>0<>0<>52551cedec834f72a53ae44a708b0355<>res://.godot/imported/Bystander.png-bc010eb8e675ca073296134f67293883.ctex::
+Jeep.png::CompressedTexture2D/CompressedTexture2D::817340569120256287::1749285104::1749285104::1::::<><><>0<>0<>1943d4f8495d3125e0b26c7500040a2a<>res://.godot/imported/Jeep.png-5e11cdf42bcb24f3c332e6f5858db4ed.ctex::
+Passenger 1.png::CompressedTexture2D/CompressedTexture2D::8892787179480428873::1749308872::1749308873::1::::<><><>0<>0<>6b5e7aa4e06da91c16b810174afba6e0<>res://.godot/imported/Passenger 1.png-17e9da09ec3bbc235e77cfdd0eaf69bc.ctex::
+Passenger 2.png::CompressedTexture2D/CompressedTexture2D::270387795226392330::1749308872::1749308873::1::::<><><>0<>0<>85bbd68e651e294897b3b4ac26cbbf0e<>res://.godot/imported/Passenger 2.png-29a74021f1e43e3ea22dee7eca341ad5.ctex::
+Roadtiles.png::CompressedTexture2D/CompressedTexture2D::3397153997883032917::1749285104::1749285104::1::::<><><>0<>0<>ce2a3d68adb5c5ae5716d968e5271c30<>res://.godot/imported/Roadtiles.png-c5b8a76812f15693dffb5db6d328ccdb.ctex::
+sky.png::CompressedTexture2D/CompressedTexture2D::4144837306821371889::1749285104::1749285104::1::::<><><>0<>0<>a9bb291a203e6e08ea5290bb00b64882<>res://.godot/imported/sky.png-5f245714f6a8ddd8d2d452ade02334b8.ctex::
+::res://scenes/::1749309661
+character.tscn::PackedScene::3941520493142541002::1749309479::0::1::::<><><>0<>0<><>::uid://dgvvk4ctvb7cg::::res://character.gd<>uid://dyxy514pkcw6d::::res://assets/Passenger 1.png
+game.gd::GDScript/GDScript::525898585960555583::1749298095::0::1::::<>Node2D<><>0<>0<><>::
+game.tscn::PackedScene::24169911021298614::1749307363::0::1::::<><><>0<>0<><>::uid://hq0qcv6iygnn::::res://scenes/game.gd<>uid://dwuvefxqayorl::::res://scenes/parallax_background.tscn<>uid://bonuvokdmcb6d::::res://assets/Roadtiles.png<>uid://gruwwrq05ala::::res://scenes/jeep.tscn
+jeep.tscn::PackedScene::457482293505380406::1749307363::0::1::::<><><>0<>0<><>::uid://bcopd1b6yeesf::::res://scripts/jeep.gd
+parallax_background.gd::GDScript/GDScript::8171031042574632313::1749297887::0::1::::<>ParallaxBackground<><>0<>0<><>::
+parallax_background.tscn::PackedScene::8745986665096105605::1749307363::0::1::::<><><>0<>0<><>::uid://bdepc2jnn3acd::::res://assets/back.png<>uid://doodxmyjcvcaj::::res://scenes/parallax_background.gd<>uid://5aw58vgqat0p::::res://assets/Buildings.png
+::res://scripts/::1749298139
+jeep.gd::GDScript/GDScript::2556617140391855161::1749298139::0::1::::<>CharacterBody2D<><>0<>0<><>::
